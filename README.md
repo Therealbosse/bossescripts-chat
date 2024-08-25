@@ -7,7 +7,6 @@ Denna asset kommer ifrån Bosse scripts och är en reskinnad version utav en cha
 __resource.lua
 cl_chat.lua
 sv_chat.lua
--
 inte krypterad css
 }
 
@@ -16,6 +15,5 @@ This asset comes from Bosse scripts and is a reskinned version of a chat that sh
 __resource.lua
 cl_chat.lua
 sv_chat.lua
--
 not encrypted css
 }
